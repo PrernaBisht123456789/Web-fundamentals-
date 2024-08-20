@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yahoo! - 1996</title>
+</head>
+<body>
+    <header>
+        <h1>Yahoo!</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="https://web.archive.org/web/19961103111100/http://www.yahoo.com/">Yahoo! Home</a></li>
+            <li><a href="https://web.archive.org/web/19961103111100/http://www.yahoo.com/news">News</a></li>
+            <li><a href="https://web.archive.org/web/19961103111100/http://www.yahoo.com/sports">Sports</a></li>
+            <li><a href="https://web.archive.org/web/19961103111100/http://www.yahoo.com/finance">Finance</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h2>Welcome to Yahoo!</h2>
+        <p>Your favorite news, sports, and finance site from 1996.</p>
+        <img src="https://web.archive.org/web/19961103111100/images/logo.gif" alt="Yahoo! Logo">
+    </main>
+
+    <footer>
+        <p>© 1996 Yahoo! Inc.</p>
+        <form action="javascript:history.back()">
+            <input type="button" value="Back" onclick="history.back()">
+        </form>
+    </footer>
+</body>
+</html>
